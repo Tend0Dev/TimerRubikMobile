@@ -1,7 +1,10 @@
 name: timer_rubik
-description: "A new Flutter project."
+description: "Una aplicación de temporizador para cubo de Rubik con algoritmos OLL/PLL, generador de scrambles y registro de tiempos."
 publish_to: 'none'
-version: 0.1.0
+version: 0.1.0+1
+homepage: https://github.com/Tend0Dev/TimerRubik
+repository: https://github.com/Tend0Dev/TimerRubik
+issue_tracker: https://github.com/Tend0Dev/TimerRubik/issues
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
